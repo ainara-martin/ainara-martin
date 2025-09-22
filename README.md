@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**ainara-martin/ainara-martin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Ainara** _Martín_
 
-Here are some ideas to get you started:
+![This is me]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Find here my Linkedin [Linkedin](https://linkedin.com/in/)
+
+I am studying in [Cuatrovientos](https://cuatrovientos.org)
+
+My skills are:
+- Learning anything new
+- Operative Systems
+- Web Applications Deployment
