@@ -4,7 +4,7 @@ I am **Ainara** _Martín_
 
 ![This is me]()
 
-Find here my Linkedin [Linkedin](https://linkedin.com/in/)
+Find here my Linkedin [Linkedin]()
 
 I am studying in [Cuatrovientos](https://cuatrovientos.org)
 
